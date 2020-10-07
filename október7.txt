@@ -1,0 +1,27 @@
+B csoport
+
+1. 
+    Üres elemek: nincs köztük tartalom és nincsen záró címkéjük pl.: <br />
+    Teli elemek: van záró címkéjük és van köztük tartalom pl.: <title>Cím</title>
+
+2.
+    <html lang='hu'>; <meta charset='utf-8' />
+
+3.
+    A weboldal fülén
+    
+4.
+    <meta name='desctription' content='A kedvenc játékom.' />
+
+
+5.  
+    <img src='./../../kép.jpg' alt='kép' /> 
+
+
+
++1.
+    <!DOCTYPE html>
+    <html>
+        <head></head>
+        <body></body>
+    </html>
